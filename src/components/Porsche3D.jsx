@@ -24,7 +24,7 @@ export default function Porsche3D() {
     // Default intensity is 1. Let's dim the light a small amount
     light.intensity = 0.7;
 
-    BABYLON.SceneLoader.Append('/models/porsche/', 'scene.gltf', scene, function(scene) {
+    BABYLON.SceneLoader.Append('/models/porsche/', 'untitled.gltf', scene, function(scene) {
     });
   };
 
