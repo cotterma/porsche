@@ -1,0 +1,6 @@
+/* Import font files from `src/fonts` folder  */
+@font-face {
+  font-family: 'Porsche';
+  src: local('Porsche'),
+       url('./fonts/911porscha/911porschav3.ttf') format('truetype'),
+}
