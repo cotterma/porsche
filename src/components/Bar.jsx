@@ -2,7 +2,6 @@ import porscheLogo from '../assets/logo.png';
 
 export default function Bar() {
     const BarStyle = {
-        width : '100%',
         display : 'flex',
         maxHeight : '15vh',
         overflow : 'hidden',

@@ -1,8 +1,8 @@
 export default function Footer() {
     const FooterStyle = {
-        width : '100%',
-        padding : '100px',
+        padding : '50px',
         borderTop : '1px solid grey',
+        fontSize : '10px',
     }
 
     return (
