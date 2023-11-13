@@ -22,7 +22,7 @@ export default function Bar() {
     }
 
     const TitleStyle = {
-        fontSize : '200px',
+        fontSize : '100px',
         textAlign : 'center',
         fontFamily : 'Porsche',
     }
